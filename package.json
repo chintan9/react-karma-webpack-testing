@@ -23,7 +23,7 @@
     "karma-sourcemap-loader": "^0.3.6",
     "karma-webpack": "^1.7.0",
     "mocha": "^2.3.4",
-    "react": "^15.1.0",
+    "react": "^15.4.0",
     "react-addons-test-utils": "^15.1.0",
     "react-dom": "^15.3.1",
     "webpack": "^1.13.1"
