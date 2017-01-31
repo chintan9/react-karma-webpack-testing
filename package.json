@@ -17,7 +17,7 @@
     "expect": "^1.13.0",
     "karma": "^1.1.1",
     "karma-chrome-launcher": "^1.0.1",
-    "karma-cli": "1.0.0",
+    "karma-cli": "1.0.1",
     "karma-firefox-launcher": "^1.0.0",
     "karma-mocha": "^1.0.1",
     "karma-sourcemap-loader": "^0.3.6",
